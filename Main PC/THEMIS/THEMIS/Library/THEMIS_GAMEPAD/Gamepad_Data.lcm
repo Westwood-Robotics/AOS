@@ -1,0 +1,25 @@
+struct GamepadData {
+    int8_t A;
+    int8_t B;
+    int8_t Y;
+    int8_t X;
+    int8_t LS;
+    int8_t RS;
+    int8_t LS2;  
+    int8_t RS2; 
+    int8_t BK;
+    int8_t ST;
+    int8_t LZ;
+    int8_t RZ;
+    int8_t U;
+    int8_t D;
+    int8_t L;
+    int8_t R;
+
+    float LX;
+    float LY;
+    float RX;
+    float RY;
+    float L2;
+    float R2;
+}

@@ -1,0 +1,9 @@
+# 数据集路径
+path: dataset
+train: train.txt  # 训练集文件列表
+val: val.txt      # 验证集文件列表
+test: test.txt    # 测试集文件列表
+
+# 类别
+nc: 4
+names: ['300~500ml hight', '1000-3000ml','300~500ml hight','300~500ml hight']

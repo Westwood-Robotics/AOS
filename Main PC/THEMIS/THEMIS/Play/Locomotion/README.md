@@ -1,0 +1,1 @@
+Due to the large size of the binary files (which exceeds GitHub's file size limit), please download the zip file [here](https://dynabotic.feishu.cn/file/NcP5bdVEXoIAZtxn5M0cUfminCd) and place all the two unzipped files under this folder.
