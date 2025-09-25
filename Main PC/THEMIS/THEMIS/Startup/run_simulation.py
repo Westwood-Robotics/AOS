@@ -22,9 +22,9 @@ import Library.ROBOT_MODEL.THEMIS_kinematics as KIN
 from Play.config import *
 from termcolor import cprint
 from Startup.reset_memory import *
+from Setting.Macros.model_macros import *
+from Setting.Macros.constant_macros import *
 from Setting.Macros.locomotion_macros import *
-from Library.ROBOT_MODEL.THEMIS_KINEMATICS_AOT import *
-from Test.Actuator.set_joint import move_to_goal_joint_positions
 from Library.THEMIS_GYM.GAZEBO_INTERFACE import Manager as gazint
 
 
