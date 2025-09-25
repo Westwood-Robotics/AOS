@@ -286,7 +286,7 @@ class UserCommand(object):
         print("                      ", tem_head_msg)
         print("_________")
         print()
-        print("IN", self.mode_name[self.mode], "(press SPACEBAR + 0/1/2 to balance/walk/run)")
+        print("IN", self.mode_name[self.mode], "(press SPACEBAR + 0/1 to balance/walk)")
         print("_________")
         print()
         if self.mode == BALANCE:
